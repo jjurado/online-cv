@@ -65,97 +65,71 @@ experiences:
         - Datto Familia (Latino Employee Resource Group) Internal Engagement Officer
 
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+      time: Jan 2019 - Sept 2019
+      company: Ellie Mae Inc - El Segundo, CA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        - Delivered multiple environments in AWS cloud for migration efforts 
+        - Proactively consolidating multiple monitoring solutions to save monthly costs 
+        Coordinating and orchestrating ongoing client migration testing for AWS - transition 
+        - Set strategic and operational goals for the team 
+        Planned, tested, and delivered continued security updates on the network and - infrastructure level  
+        Wrote custom python scripts to display health checks on a Web UI for awareness - of the state of any environment 
+        Brought the TFS stack up to SOX code by implementing thorough security groups - and privileges 
+        - Automated three deployment types using Microsoft DSC 
+        - Working on API driven automated releases 
+        - Coding and automation of infrastructure as code through Terraform 
+        Increased transparency and communications around all build and release jobs by - adding slack communications 
+        - Orchestrated and coordinated disaster recovery testing 
+    - role: Devops - Build and Release Engineer II
+      time: Aug 2015 - Dec 2018
+      company: ESPN - Bristol, CT
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        - Researched, presented, designed, and implemented SaltStack POC for configuration management 
+        - Designed, tested, and implemented REST APIs for in house automation 
+        - Evangelize best practices for build and deploys across multiple technologies 
+        - Designed and implemented and automated end to end build and deployment process for non-production and  production environments using Jenkins, Bash, Powershell, Python, and Serena Business Manager 
+        - Improved the efficiency of an automated build and release process by 25% from an average of 750 deployments to  over 1000 per month 
+        - Created, tested, and maintained code to help support and enforce SOX audits  
+        - Designed and implemented a logging standard across all SCM applications for Splunk integration o Migrated PowerShell scripts to Python to support cross platform communication 
+        - Designed, prototyped, and implemented a tools suite using Flask microframework, Python, and Apache to  automate and create an on-demand platform for developers to request day to day configurations or tools 
+        - Developed a notification system to notify the developers of the status of deployments 
+        - Maintained SVN, TFS, and GIT repositories for 16 developer environments: code automation and configuration
+    - role: Devops Engineer
+      time: Jan 2014 - July 2015
+      company: Spot Trading LLC - Chicago, IL
+      details: |
+        - Define and implement automated system installation/configuration procedures via SaltStack
+        - Created a highly available and resilient Redis cluster for information management 
+        - Implemented and deployed scripts and tools to facilitate error free and repeatable software deployment processes via SaltStack and Bamboo
+        - Actively troubleshoot performance issues by leveraging Logstash to analyze the application logs
+        - Set up in house monitoring solutions to replace 3rd party monitoring and saved the company $12K per month
+        - Improved the automation of application deployment for critical trading applications 
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Python
+        level: 90%
+      - name: powershell
+        level: 75%
+      - name: bash
+        level: 90%
+      - name: CI/CD (Gitlab CI/CD, Jenkins, Azure DevOps)
+        level: 90%
+      - name: Configuration Mgmt (Puppet, Ansible, Saltstack)
         level: 95%
+      - name: Docker
+        level: 75%
+      - name: Openstack
+        level: 75%
 
-      - name: Ruby on Rails
-        level: 85%
+projects:
+    title: Operating Systems
 
-      - name: Sketch & Photoshop
-        level: 60%
+    intro: |
+      - Linux (CentOS, RHEL, Ubuntu) \\n
+      - Windows
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
