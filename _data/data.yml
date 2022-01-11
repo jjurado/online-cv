@@ -16,32 +16,18 @@ sidebar:
     phone: 012 345 6789
     website: blog.webjeda.com #do not add http://
     linkedin: alandoe
-    xing: alandoe
     github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
 
     languages:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
       - idiom: Spanish
-        level: Professional
+        level: Native
 
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
+      - item: Sports
         link:
 
       - item: Cooking
@@ -57,44 +43,29 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BSc in Computer Engineering
+      university: Purdue University, West Lafayette
+      time: 2009 - 2013
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        ECE GPA: 3.44 
+        Overall: 3.29
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Staff DevOps Engineer
+      time: Sept 2019 - Present
+      company: Datto Inc, Remote based in CA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        - Owned, managed, and developed against an in house python app to manage VMs via Openstack API. 
+          - Developers can go from no dev environment to a full production like environment with 18 apps in 5 minutes or less.
+          - Added the automated consumption of application inputs by leveraging dotenv feature to the VM management tool
+        - Migrated 3000+ VMs from running masterless Puppet for configuration management to being paired and managed by Foreman
+        - Administrator for Gitlab Enterprise for all users
+        - Managed and maintained container images for use in Gitlab CI/CD
+        - Developed templated gitlab-ci.yml files for different types of deployments
+        - On-call rotation every 8 weeks
+        - Presented about DevOps culture at Datto University new hire orientation
+        - Served as "buddy" for new hires in the team
+        - Datto Familia (Latino Employee Resource Group) Internal Engagement Officer
+
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
