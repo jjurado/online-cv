@@ -127,9 +127,9 @@ skills:
 projects:
     title: Operating Systems
 
-    intro: |
-      - Linux (CentOS, RHEL, Ubuntu) \\n
-      - Windows
+    assignments:
+      - tagline: Linux (CentOS, RHEL, Ubuntu) 
+      - tagline: Windows
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
