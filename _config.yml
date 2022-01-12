@@ -2,6 +2,7 @@
 
 # Site Settings
 title: jurado_jose_resume
+url: 'http://webjeda.com'
 
 #change it according to your repository name
 # disabling since we are using a custom domain
@@ -23,7 +24,7 @@ sass:
 # Build settings
 compress-site: yes
 
-encoding: "utf-16"
+encoding: "utf-8"
 compress_html: # - http://jch.penibelst.de/
   clippings: all
   ignore:
